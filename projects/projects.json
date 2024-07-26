@@ -1,0 +1,22 @@
+[
+  {
+    "name": "ElectroShop Sound Systems",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "Screenshot 2024-07-26 062031",
+    "category": "ASP.NET CORE MVC",
+    "links": {
+      "view": "https://www.google.com/error",
+      "code": "https://github.com/abulfazfa/SoundSystemShopMVC "
+    }
+  },
+  {
+    "name": "Hospital Platform",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "Screenshot 2024-07-26 144311",
+    "category": "ASP.NET CORE MVC",
+    "links": {
+      "view": "https://www.google.com/error",
+      "code": "https://github.com/abulfazfa/HospitalPlatformAPI"
+    }
+  }
+]
