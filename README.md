@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Node.js, Python**
 
-- 👨‍💻 All of my projects are available at [](https://www.canva.com/)
+- 👨‍💻 All of my projects are available at [Abulfez's Portfolio](https://abulfazfa.github.io/Abulfazfa/)
 
 - 📫 How to reach me **abulfezaliyev2@gmail.com**
 
