@@ -1,7 +1,7 @@
 [
   {
     "name": "ElectroShop Sound Systems",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "desc": "ASP.NET Core MVC project is an e-commerce platform, featuring functionalities like blog comments and social media sharing, email and OTP verification, product creation and review, discount management, and an admin panel for website modifications.",
     "image": "Screenshot 2024-07-26 062031",
     "category": "ASP.NET CORE MVC",
     "links": {
@@ -11,7 +11,7 @@
   },
   {
     "name": "Hospital Platform",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "desc": "The Hospital Platform project is designed for managing healthcare services, including functionalities for reserving doctor appointments, viewing analysis results, and additional features to streamline hospital operations and enhance patient care.",
     "image": "Screenshot 2024-07-26 144311",
     "category": "ASP.NET CORE MVC",
     "links": {
