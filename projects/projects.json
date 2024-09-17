@@ -10,13 +10,13 @@
     }
   },
   {
-    "name": "Hospital Platform",
+    "name": "Hospital System",
     "desc": "The Hospital Platform project is designed for managing healthcare services, including functionalities for reserving doctor appointments, viewing analysis results, and additional features to streamline hospital operations and enhance patient care.",
     "image": "Screenshot 2024-07-26 144311",
-    "category": "ASP.NET CORE MVC",
+    "category": "ASP.NET CORE MVC API",
     "links": {
       "view": "https://www.google.com/error",
-      "code": "https://github.com/abulfazfa/HospitalPlatformAPI"
+      "code": "https://github.com/Abulfazfa/HospitalSystem"
     }
   }
 ]
