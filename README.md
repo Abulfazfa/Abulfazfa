@@ -3,7 +3,7 @@
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
 - 🔭 I'm currently studying at [Holberton School Azerbaijan](https://www.holbertonschool.com/campuses/baku-azerbaijan)
 
-- 🌱 I’m currently learning **React, Node.js, Python**
+- 🌱 I’m currently learning **Docker & Kubernetes, Microservices Architecture**
 
 - 👨‍💻 All of my projects are available at [Abulfez's Portfolio](https://abulfazfa.github.io/Abulfazfa/)
 
