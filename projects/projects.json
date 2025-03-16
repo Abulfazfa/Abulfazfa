@@ -11,12 +11,12 @@
   },
   {
     "name": "Hospital Platform",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "desc": "This GitHub Organization hosts the Hospital System Microservices, a distributed healthcare platform built using multiple technologies.",
     "image": "Screenshot 2024-07-26 144311",
-    "category": "ASP.NET CORE MVC",
+    "category": "ASP.NET CORE API, Spring Boot, NodeJS",
     "links": {
       "view": "https://www.google.com/error",
-      "code": "https://github.com/abulfazfa/HospitalPlatformAPI"
+      "code": "https://github.com/MediSoftSolution"
     }
   }
 ]
